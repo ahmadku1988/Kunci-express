@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmadku1988.github.io/Kunci-express/sitemap.xml
